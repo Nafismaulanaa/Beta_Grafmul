@@ -1,0 +1,11 @@
+PImage char1_standing, char2_standing, char3_standing;
+PImage char1_takbir_a_mouth, char1_salat, char1_rukuk;
+PImage char2_takbir_a_mouth, char2_salat, char2_rukuk;
+PImage char3_takbir_a_mouth, char3_salat, char3_rukuk;
+PImage char1_rukuk_ketut, char1_standing_flip;
+PImage char1_batal, char1_batal_a_mouth, char1_batal_o_mouth;
+PImage red_x;
+PImage green_check;
+PImage img1, img1_aMouth, img1_oMouth;
+PImage char2_standing_flip, char2_standing_a_mouth_flip;
+PImage char3_standing_ngobrol, char3_standing_a_mouth;
